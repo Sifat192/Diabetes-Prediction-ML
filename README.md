@@ -40,6 +40,20 @@ The project follows these steps:
 6. Evaluating model performance using classification metrics
 
 ---
+## Model Workflow
+
+The diagram outlines patient data exploration, feature
+preprocessing, train-test splitting, logistic regression
+training, and model evaluation using performance metrics.
+
+<p align="center">
+  <img src="diabetes-prediction-workflow.png"
+       alt="Diabetes prediction model training and evaluation workflow"
+       width="450">
+</p>
+
+[View full-size diagram](diabetes-prediction-workflow.png)
+---
 
 ## Technologies Used
 
